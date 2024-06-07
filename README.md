@@ -1,5 +1,6 @@
-# Workday SOAP API Powershell Script Module #
+# DEPRICATED: Workday SOAP API Powershell Script Module #
 
+Sorry, this project has been depricated.
 
 ## Description ##
 Provides simple methods for accessing the Workday SOAP API.
